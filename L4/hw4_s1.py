@@ -26,5 +26,3 @@ def hw4_solution1 (text):
         res = []
     result_dict = dict(result)
     return result_dict
-
-print hw4_solution1(s)
